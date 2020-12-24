@@ -10,7 +10,7 @@
 Eu sou um desenvolvedor experiente com uma sensinbilidade pra arte. Trabalhei 4 anos criando formas para as pessoas se integrarem na area social através da [Atados](https://atados.com.br) usando muito [React](http://reactjs.org/) e [Node.js](https://nodejs.org/en/). Lá trabalhei como Desenvolvedor Sênior até chegar no cargo de CTO que fiquei 1 ano. Nesse tempo tive o grande prazer se ser professor voluntário por um semestre e isso me mostrou o quanto eu gosto de ensinar. Tive o grande prazer de trabalhar ao lado de pessoas sensíveis que expandiram minha visão de mundo.
 
 - 🌱 Atualmente estou aprendendo a criar produtos rentáveis
-- 👯 Estou em busca de trabalhar em uma empresa fora do Brasil
+- 👯 Assim que sair do meu tempo off, vou buscar uma empresa de fora do Brasil
 - 💬 Me pergunte sobre: [React](http://reactjs.org/), [Voluntariado](https://atados.com.br), CSS e [Figma](https://www.figma.com/)
 - 📫 Como falar comigo: [Me manda um email](mailto:vin175pacheco@gmail.com)
 - 🥁 Pra além de código eu escrevo poemas e toco samba
