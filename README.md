@@ -1,4 +1,4 @@
-[![Frame 1](https://user-images.githubusercontent.com/9030018/161333799-9247dcfa-5626-46ae-92be-fe2efaa13942.jpg)
+[![Banner](https://user-images.githubusercontent.com/9030018/161356333-3850531e-e402-42eb-94f6-1c08b4a9865a.jpg)
 ](https://vinpac.io/)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-furtado-028500190/)](https://www.linkedin.com/in/vinpac/)
