@@ -2,7 +2,7 @@
 ](https://vinpac.io/)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-furtado-028500190/)](https://www.linkedin.com/in/vinpac/)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vin175pacheco@gmail.com)](mailto:vin175pacheco@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oi@vinpac.io)](mailto:oi@vinpac.io)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-c14438?style=for-the-badge&logo=Dribbble&color=ea4c89&logoColor=white&link=https://dribbble.com/vinpac)](https://dribbble.com/vinpac)
 
 - Você pode ler [sobre mim aqui](https://vinpac.io/). 
@@ -23,12 +23,15 @@
   <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-ff4154?style=flat-square&logo=reactquery&logoColor=white" />
   <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-05b6d4?style=flat-square&logo=Tailwind-CSS&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-fe4685?style=flat-square&logo=storybook&logoColor=white" />
   <br/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-37a169?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=postgreSQL&logoColor=white" />
+  <img alt="Zod" src="https://img.shields.io/badge/-Zod-2f68b6?style=flat-square&logoColor=black" />
   
   <br/>
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -39,4 +42,6 @@
   <br/>
 
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-111111?style=flat-square&logo=Figma&logoColor=white" />
+  <img alt="Todoist" src="https://img.shields.io/badge/-Todoist-d84030?style=flat-square&logo=todoist&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white" />
 </p>
