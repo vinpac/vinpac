@@ -1,5 +1,4 @@
-[![Banner](https://user-images.githubusercontent.com/9030018/161356333-3850531e-e402-42eb-94f6-1c08b4a9865a.jpg)
-](https://vinpac.io/)
+[![Banner](https://user-images.githubusercontent.com/9030018/163029880-bde222ec-b55f-467c-8913-a493b76b3eaf.png)](https://vinpac.io/)
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-furtado-028500190/)](https://www.linkedin.com/in/vinpac/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:oi@vinpac.io)](mailto:oi@vinpac.io)
